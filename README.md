@@ -1,3 +1,3 @@
-# ZOOMBAK
+# ChatApp
 
-Zoom Clone using NodeJS, WebRTC and Websockets
+ChatApp using Socket.io
